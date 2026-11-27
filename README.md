@@ -1,4 +1,4 @@
-# [Project name]
+# SecurePay
 
 **Team 16:** SecurePay (payment platform)
 
