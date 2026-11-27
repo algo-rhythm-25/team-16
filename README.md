@@ -1,6 +1,6 @@
 # [Project name]
 
-**Team [number]:** [one-line description of what you're building]
+**Team 16:** SecurePay (payment platform)
 
 ## Team
 
